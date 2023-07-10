@@ -1,0 +1,9 @@
+pageObjects\TestAccountRegistrationPage.class
+testRunner\TestRunner.class
+pageObjects\TestBasePage.class
+pageObjects\TestLogInPage.class
+pageObjects\TestShoppingCartPage.class
+pageObjects\TestMyAccountPage.class
+stepDefinitions\TestSteps.class
+pageObjects\TestHomePage.class
+pageObjects\TestSearchPage.class

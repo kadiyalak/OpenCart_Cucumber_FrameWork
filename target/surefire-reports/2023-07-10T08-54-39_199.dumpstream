@@ -1,0 +1,5 @@
+# Created at 2023-07-10T08:54:39.858
+Boot Manifest-JAR contains absolute paths in classpath 'D:\kranthi\eclipse\OpenCart_Cucumber_FrameWork\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
